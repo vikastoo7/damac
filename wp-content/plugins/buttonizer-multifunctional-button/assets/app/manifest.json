@@ -1,0 +1,16 @@
+{
+  "index.html": {
+    "file": "index.154d2b94.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.ffae3927.js"
+    ],
+    "css": [
+      "index.8d4900f2.css"
+    ]
+  },
+  "_vendor.ffae3927.js": {
+    "file": "vendor.ffae3927.js"
+  }
+}
